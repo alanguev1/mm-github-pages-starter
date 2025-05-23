@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: "Alan Joel Guevara"
 email: "alanguedata@gmail.com"
-description: >-  Business Intelligence y Análisis de Datos orientado a PyMEs. Power BI, SQL, Python y visualización para decisiones estratégicas.
+description: >
+  Business Intelligence y Análisis de Datos orientado a PyMEs. Power BI, SQL, Python y visualización para decisiones estratégicas.
 twitter_username: username
 github_username: "alanguev1"
 minimal_mistakes_skin: default
